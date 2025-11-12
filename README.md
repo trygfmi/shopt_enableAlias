@@ -29,12 +29,7 @@
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shopt_enableAlias
-cd shopt_enableAlias
-cat fail_shopt_enableAlias.sh
-./fail_shopt_enableAlias.sh
-cat start_shopt_enableAlias.sh
-./start_shopt_enableAlias.sh</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shopt_enableAliascd shopt_enableAliascat fail_shopt_enableAlias.sh./fail_shopt_enableAlias.shcat start_shopt_enableAlias.sh./start_shopt_enableAlias.sh</code></pre>
 
 
 
@@ -53,13 +48,7 @@ hello shopt_enableAlias</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_alias
-git clone https://github.com/trygfmi/shopt_enableAlias
-cd shopt_enableAlias
-cat fail_shopt_enableAlias.sh
-./fail_shopt_enableAlias.sh
-cat start_shopt_enableAlias.sh
-./start_shopt_enableAlias.sh</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_aliasgit clone https://github.com/trygfmi/shopt_enableAliascd shopt_enableAliascat fail_shopt_enableAlias.sh./fail_shopt_enableAlias.shcat start_shopt_enableAlias.sh./start_shopt_enableAlias.sh</code></pre>
 
 
 
@@ -78,12 +67,7 @@ hello shopt_enableAlias</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shopt_enableAlias
-cd shopt_enableAlias
-cat fail_shopt_enableAlias.sh
-./fail_shopt_enableAlias.sh
-cat start_shopt_enableAlias.sh
-./start_shopt_enableAlias.sh</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shopt_enableAliascd shopt_enableAliascat fail_shopt_enableAlias.sh./fail_shopt_enableAlias.shcat start_shopt_enableAlias.sh./start_shopt_enableAlias.sh</code></pre>
 
 
 
@@ -98,12 +82,7 @@ hello shopt_enableAlias</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shopt_enableAlias
-cd shopt_enableAlias
-cat fail_shopt_enableAlias.sh
-./fail_shopt_enableAlias.sh
-cat start_shopt_enableAlias.sh
-./start_shopt_enableAlias.sh</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shopt_enableAliascd shopt_enableAliascat fail_shopt_enableAlias.sh./fail_shopt_enableAlias.shcat start_shopt_enableAlias.sh./start_shopt_enableAlias.sh</code></pre>
 
 
 
@@ -131,7 +110,7 @@ hello shopt_enableAlias</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git --version</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git --version</code></pre>
 
 
 
@@ -143,7 +122,7 @@ hello shopt_enableAlias</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo apt install git</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo apt install git</code></pre>
 
 
 
@@ -155,17 +134,12 @@ hello shopt_enableAlias</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shopt_enableAlias
-cd shopt_enableAlias
-cat fail_shopt_enableAlias.sh
-./fail_shopt_enableAlias.sh
-cat start_shopt_enableAlias.sh
-./start_shopt_enableAlias.sh</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shopt_enableAliascd shopt_enableAliascat fail_shopt_enableAlias.sh./fail_shopt_enableAlias.shcat start_shopt_enableAlias.sh./start_shopt_enableAlias.sh</code></pre>
 
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>./fail_shopt_enableAlias.sh: line 6: hello: command not found<br>hello shopt_enableAlias</code></pre></p>
+<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>./fail_shopt_enableAlias.sh: line 6: hello: command not found<br>hello shopt_enableAlias</code></pre></p>
 </details>
 </details>
 
@@ -184,8 +158,7 @@ cat start_shopt_enableAlias.sh
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_alias
-git --version</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_aliasgit --version</code></pre>
 
 
 
@@ -217,8 +190,7 @@ git --version</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo port install git
-echo 'alias git="/opt/local/bin/git"' &gt;&gt; ~/bashrc_folder/macports_alias</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo port install gitecho 'alias git="/opt/local/bin/git"' >> ~/bashrc_folder/macports_alias</code></pre>
 
 
 
@@ -230,18 +202,12 @@ echo 'alias git="/opt/local/bin/git"' &gt;&gt; ~/bashrc_folder/macports_alias</c
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_alias
-git clone https://github.com/trygfmi/shopt_enableAlias
-cd shopt_enableAlias
-cat fail_shopt_enableAlias.sh
-./fail_shopt_enableAlias.sh
-cat start_shopt_enableAlias.sh
-./start_shopt_enableAlias.sh</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_aliasgit clone https://github.com/trygfmi/shopt_enableAliascd shopt_enableAliascat fail_shopt_enableAlias.sh./fail_shopt_enableAlias.shcat start_shopt_enableAlias.sh./start_shopt_enableAlias.sh</code></pre>
 
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>./fail_shopt_enableAlias.sh: line 6: hello: command not found<br>hello shopt_enableAlias</code></pre></p>
+<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>./fail_shopt_enableAlias.sh: line 6: hello: command not found<br>hello shopt_enableAlias</code></pre></p>
 </details>
 </details>
 
@@ -264,7 +230,7 @@ cat start_shopt_enableAlias.sh
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git --version</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git --version</code></pre>
 
 
 
@@ -272,7 +238,7 @@ cat start_shopt_enableAlias.sh
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git --version</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git --version</code></pre>
 
 
 
@@ -300,7 +266,7 @@ cat start_shopt_enableAlias.sh
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo apt install git</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo apt install git</code></pre>
 
 
 
@@ -308,7 +274,7 @@ cat start_shopt_enableAlias.sh
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>pacman --sync git</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>pacman --sync git</code></pre>
 
 
 
@@ -324,17 +290,12 @@ cat start_shopt_enableAlias.sh
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shopt_enableAlias
-cd shopt_enableAlias
-cat fail_shopt_enableAlias.sh
-./fail_shopt_enableAlias.sh
-cat start_shopt_enableAlias.sh
-./start_shopt_enableAlias.sh</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shopt_enableAliascd shopt_enableAliascat fail_shopt_enableAlias.sh./fail_shopt_enableAlias.shcat start_shopt_enableAlias.sh./start_shopt_enableAlias.sh</code></pre>
 
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>./fail_shopt_enableAlias.sh: line 6: hello: command not found<br>hello shopt_enableAlias</code></pre></p>
+<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>./fail_shopt_enableAlias.sh: line 6: hello: command not found<br>hello shopt_enableAlias</code></pre></p>
 </details>
 
 
@@ -343,17 +304,12 @@ cat start_shopt_enableAlias.sh
 
 
 
-<pre class="wp-block-code has-cyan-bluish-gray-background-color has-background"><code>git clone https://github.com/trygfmi/shopt_enableAlias
-cd shopt_enableAlias
-cat fail_shopt_enableAlias.sh
-./fail_shopt_enableAlias.sh
-cat start_shopt_enableAlias.sh
-./start_shopt_enableAlias.sh</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shopt_enableAliascd shopt_enableAliascat fail_shopt_enableAlias.sh./fail_shopt_enableAlias.shcat start_shopt_enableAlias.sh./start_shopt_enableAlias.sh</code></pre>
 
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>./fail_shopt_enableAlias.sh: line 6: hello: command not found<br>hello shopt_enableAlias</code></pre></p>
+<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>./fail_shopt_enableAlias.sh: line 6: hello: command not found<br>hello shopt_enableAlias</code></pre></p>
 </details>
 </details>
 
@@ -372,4 +328,3 @@ cat start_shopt_enableAlias.sh
 
 
 <p></p>
-

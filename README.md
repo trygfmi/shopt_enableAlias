@@ -3,7 +3,9 @@
 
 
 
+<div class="wp-block-group">
 <p>このリポジトリは、shoptコマンドを実行してシェルスクリプト内でエイリアスを使用可能にします</p>
+</div>
 
 
 
@@ -11,9 +13,11 @@
 
 
 
+<div class="wp-block-group">
 <ol class="wp-block-list">
 <li>git</li>
 </ol>
+</div>
 
 
 
@@ -21,6 +25,7 @@
 
 
 
+<div class="wp-block-group">
 <p>上記のコマンドをインストール済みの方は、以下のコマンドを実行してリポジトリからダウンロード後、ディレクトリを移動し、シェルスクリプトを実行してエイリアスが実行できることを確認してください</p>
 
 
@@ -29,6 +34,7 @@
 
 
 
+<div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shopt_enableAlias
 cd shopt_enableAlias
 cat fail_shopt_enableAlias.sh
@@ -42,6 +48,7 @@ cat start_shopt_enableAlias.sh
 <pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>./fail_shopt_enableAlias.sh: line 6: hello: command not found
 hello shopt_enableAlias</code></pre>
 </details>
+</div>
 
 
 
@@ -49,6 +56,7 @@ hello shopt_enableAlias</code></pre>
 
 
 
+<div class="wp-block-group">
 <h4 class="wp-block-heading">MacPorts</h4>
 
 
@@ -67,6 +75,7 @@ cat start_shopt_enableAlias.sh
 <pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>./fail_shopt_enableAlias.sh: line 6: hello: command not found
 hello shopt_enableAlias</code></pre>
 </details>
+</div>
 
 
 
@@ -74,10 +83,12 @@ hello shopt_enableAlias</code></pre>
 
 
 
+<div class="wp-block-group">
 <h4 class="wp-block-heading">WSL2</h4>
 
 
 
+<div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shopt_enableAlias
 cd shopt_enableAlias
 cat fail_shopt_enableAlias.sh
@@ -91,6 +102,7 @@ cat start_shopt_enableAlias.sh
 <pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>./fail_shopt_enableAlias.sh: line 6: hello: command not found
 hello shopt_enableAlias</code></pre>
 </details>
+</div>
 
 
 
@@ -98,6 +110,7 @@ hello shopt_enableAlias</code></pre>
 
 
 
+<div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shopt_enableAlias
 cd shopt_enableAlias
 cat fail_shopt_enableAlias.sh
@@ -111,6 +124,9 @@ cat start_shopt_enableAlias.sh
 <pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>./fail_shopt_enableAlias.sh: line 6: hello: command not found
 hello shopt_enableAlias</code></pre>
 </details>
+</div>
+</div>
+</div>
 
 
 
@@ -118,6 +134,7 @@ hello shopt_enableAlias</code></pre>
 
 
 
+<div class="wp-block-group">
 <h3 class="wp-block-heading">ubuntu</h3>
 
 
@@ -127,11 +144,13 @@ hello shopt_enableAlias</code></pre>
 
 
 
+<div class="wp-block-group">
 <p>以下のコマンドを端末に打ち込んでcommand not foundが出なければokです</p>
 
 
 
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git --version</code></pre>
+</div>
 
 
 
@@ -139,11 +158,13 @@ hello shopt_enableAlias</code></pre>
 
 
 
+<div class="wp-block-group">
 <p>端末でcommand not foundが出たコマンドを以下のコマンドでインストールしてください</p>
 
 
 
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo apt install git</code></pre>
+</div>
 
 
 
@@ -151,6 +172,7 @@ hello shopt_enableAlias</code></pre>
 
 
 
+<div class="wp-block-group">
 <p>以下のコマンドを実行することで詳細のような文字列が出力されるはずです</p>
 
 
@@ -165,8 +187,10 @@ cat start_shopt_enableAlias.sh
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>./fail_shopt_enableAlias.sh: line 6: hello: command not found<br>hello shopt_enableAlias</code></pre></p>
+<pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>./fail_shopt_enableAlias.sh: line 6: hello: command not found
+hello shopt_enableAlias</code></pre>
 </details>
+</div>
 </details>
 
 
@@ -180,6 +204,7 @@ cat start_shopt_enableAlias.sh
 
 
 
+<div class="wp-block-group">
 <p>以下のコマンドをターミナルに打ち込んでcommand not foundが出なければokです</p>
 
 
@@ -206,6 +231,7 @@ git --version</code></pre>
 
 
 [![MacPortsでインストールしたコマンドのエイリアス設定](https://ss523971.stars.ne.jp/todo/wp-content/uploads/2025/10/thumbnail_macports2.png,)](https://ss523971.stars.ne.jp/todo/how-to-setup-macports-alias)
+</div>
 
 
 
@@ -213,12 +239,14 @@ git --version</code></pre>
 
 
 
+<div class="wp-block-group">
 <p>ターミナルでcommand not foundが出たコマンドを以下のコマンドでインストールしてエイリアスを設定してください</p>
 
 
 
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo port install git
 echo 'alias git="/opt/local/bin/git"' >> ~/bashrc_folder/macports_alias</code></pre>
+</div>
 
 
 
@@ -226,6 +254,7 @@ echo 'alias git="/opt/local/bin/git"' >> ~/bashrc_folder/macports_alias</code></
 
 
 
+<div class="wp-block-group">
 <p>以下のコマンドを実行することで詳細のような文字列が出力されるはずです</p>
 
 
@@ -241,8 +270,10 @@ cat start_shopt_enableAlias.sh
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>./fail_shopt_enableAlias.sh: line 6: hello: command not found<br>hello shopt_enableAlias</code></pre></p>
+<pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>./fail_shopt_enableAlias.sh: line 6: hello: command not found
+hello shopt_enableAlias</code></pre>
 </details>
+</div>
 </details>
 
 
@@ -256,6 +287,7 @@ cat start_shopt_enableAlias.sh
 
 
 
+<div class="wp-block-group">
 <p>以下のコマンドをプロンプトに打ち込んでcommand not foundが出なければokです</p>
 
 
@@ -285,6 +317,7 @@ cat start_shopt_enableAlias.sh
 
 
 [![](https://ss523971.stars.ne.jp/todo/wp-content/uploads/2025/10/msys2_thumbnail_1920_1080.png)](https://ss523971.stars.ne.jp/todo/how-to-install-msys2)
+</div>
 
 
 
@@ -292,6 +325,7 @@ cat start_shopt_enableAlias.sh
 
 
 
+<div class="wp-block-group">
 <p>プロンプトでcommand not foundが出たコマンドを以下のコマンドでインストールしてください</p>
 
 
@@ -309,6 +343,7 @@ cat start_shopt_enableAlias.sh
 
 
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>pacman --sync git</code></pre>
+</div>
 
 
 
@@ -316,6 +351,7 @@ cat start_shopt_enableAlias.sh
 
 
 
+<div class="wp-block-group">
 <p>以下のコマンドを実行することで詳細のような文字列が出力されるはずです</p>
 
 
@@ -324,6 +360,7 @@ cat start_shopt_enableAlias.sh
 
 
 
+<div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shopt_enableAlias
 cd shopt_enableAlias
 cat fail_shopt_enableAlias.sh
@@ -334,8 +371,10 @@ cat start_shopt_enableAlias.sh
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>./fail_shopt_enableAlias.sh: line 6: hello: command not found<br>hello shopt_enableAlias</code></pre></p>
+<pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>./fail_shopt_enableAlias.sh: line 6: hello: command not found
+hello shopt_enableAlias</code></pre>
 </details>
+</div>
 
 
 
@@ -343,6 +382,7 @@ cat start_shopt_enableAlias.sh
 
 
 
+<div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shopt_enableAlias
 cd shopt_enableAlias
 cat fail_shopt_enableAlias.sh
@@ -353,9 +393,13 @@ cat start_shopt_enableAlias.sh
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>./fail_shopt_enableAlias.sh: line 6: hello: command not found<br>hello shopt_enableAlias</code></pre></p>
+<pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>./fail_shopt_enableAlias.sh: line 6: hello: command not found
+hello shopt_enableAlias</code></pre>
 </details>
+</div>
+</div>
 </details>
+</div>
 
 
 
@@ -364,11 +408,3 @@ cat start_shopt_enableAlias.sh
 
 
 <p>fail_shopt_enableAlias.shファイルは、shopt -s expand_aliasesを実行していないファイルです。-sはexpand_aliasesを有効化するオプションです</p>
-
-
-
-<p></p>
-
-
-
-<p></p>
